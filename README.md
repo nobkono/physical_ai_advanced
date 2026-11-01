@@ -5,19 +5,6 @@ Franka Emika Panda ロボットアームを用いて、ブロックタワーめ�
 
 ---
 
-## 🎬 実行結果デモ
-
-<!-- 
-【動画の埋め込み方法】
-1. GitHub 上で README.md の編集画面（鉛筆アイコン）を開く
-2. 生成した mp4 ファイルをこの編集欄に直接ドラッグ＆ドロップする
-3. 自動でアップロードされ、再生可能な動画リンクが挿入されます
--->
-
-https://github.com/user-attachments/assets/xxxx-xxxx-xxxx (ドラッグ＆ドロップすると自動生成されます)
-
----
-
 ## 📋 概要
 
 - **シミュレータ**: Genesis (`genesis-world`)
